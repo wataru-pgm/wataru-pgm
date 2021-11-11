@@ -1,1 +1,1 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wataru_pgm&theme=vue)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wataru-pgm)](https://github.com/anuraghazra/github-readme-stats)
