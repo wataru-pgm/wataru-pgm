@@ -6,3 +6,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<a href="http://twitter.com/wataru_pgm">
+  <img height="30" src="https://img.shields.io/twitter/follow/wataru_pgm?label=Twitter&logo=twitter&style=flat" />
+</a>
